@@ -2,6 +2,8 @@
 title: Linux 发行版介绍
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnA43
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/3'
 ---
 
 # Linux 发行版介绍
