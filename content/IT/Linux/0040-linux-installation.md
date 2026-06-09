@@ -6,6 +6,10 @@ discussion_id: D_kwDOS1Ul_s4AnA6L
 discussion_url: 'https://github.com/yuanchaodu/blog/discussions/4'
 ---
 
+# Linux 安装指南
+
+<img src="images/Linux.svg" width="300">
+
 如果你是第一次安装 Linux，推荐从桌面版发行版开始，例如：Ubuntu、Linux Mint 或 Fedora。
 
 ## 一、安装前准备
@@ -32,7 +36,6 @@ discussion_url: 'https://github.com/yuanchaodu/blog/discussions/4'
 | ------------------- | --------------------------------------------------------------- |
 | Windows             | [Rufus](https://rufus.ie)                |
 | Windows/Linux/macOS | [balenaEtcher](https://etcher.balena.io) |
-| Windows/Linux/macOS | 
 
 制作步骤：
 
