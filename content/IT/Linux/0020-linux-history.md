@@ -2,6 +2,8 @@
 title: Linux 发展历史
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnA29
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/2'
 ---
 
 # Linux 发展历史
