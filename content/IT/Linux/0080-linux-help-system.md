@@ -2,6 +2,8 @@
 title: Linux 帮助系统
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnBxt
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/8'
 ---
 
 # Linux 帮助系统
