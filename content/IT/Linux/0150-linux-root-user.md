@@ -2,6 +2,8 @@
 title: Linux root 用户介绍
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnB4K
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/15'
 ---
 
 # Linux root 用户介绍
