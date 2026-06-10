@@ -2,6 +2,8 @@
 title: Linux Shell 简介
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnBqV
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/6'
 ---
 
 # Linux Shell 简介
