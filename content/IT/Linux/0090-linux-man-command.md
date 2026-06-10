@@ -2,6 +2,8 @@
 title: Linux man 命令详解
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnBy9
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/9'
 ---
 
 # Linux man 命令详解
