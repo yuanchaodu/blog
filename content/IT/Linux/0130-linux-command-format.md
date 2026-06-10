@@ -2,6 +2,8 @@
 title: Linux 命令格式
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnB1z
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/13'
 ---
 
 # Linux 命令格式
