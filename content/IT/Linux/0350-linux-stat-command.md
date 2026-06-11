@@ -2,6 +2,8 @@
 title: Linux stat 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnDd4
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/35'
 ---
 
 # Linux stat 命令
