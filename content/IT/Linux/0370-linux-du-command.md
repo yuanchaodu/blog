@@ -2,6 +2,8 @@
 title: Linux du 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnDhB
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/37'
 ---
 
 # Linux du 命令
