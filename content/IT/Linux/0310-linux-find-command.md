@@ -34,6 +34,11 @@ find /home -name "*.txt"
 find /var/log -name "*.log"
 ```
 
+限定深度
+```bash
+find . -maxdepth 1 -name "*.csv"
+```
+
 忽略大小写：
 
 ```bash
