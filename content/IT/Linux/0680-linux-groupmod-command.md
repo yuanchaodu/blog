@@ -2,6 +2,8 @@
 title: Linux groupmod 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnJTD
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/68'
 ---
 
 # Linux groupmod 命令
