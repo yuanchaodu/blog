@@ -2,6 +2,8 @@
 title: Linux usermod 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnI0a
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/64'
 ---
 
 # Linux usermod 命令
