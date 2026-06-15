@@ -2,6 +2,8 @@
 title: Linux 用户管理
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnIvF
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/61'
 ---
 
 # Linux 用户管理
