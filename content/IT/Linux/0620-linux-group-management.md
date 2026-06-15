@@ -2,6 +2,8 @@
 title: Linux 用户组管理
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnIv7
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/62'
 ---
 
 # Linux 用户组管理
