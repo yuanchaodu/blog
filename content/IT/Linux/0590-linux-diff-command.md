@@ -2,6 +2,8 @@
 title: Linux diff 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnItV
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/59'
 ---
 
 # Linux diff 命令
