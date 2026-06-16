@@ -2,6 +2,8 @@
 title: Linux 归档策略
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnKul
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/89'
 ---
 
 # Linux 归档策略
