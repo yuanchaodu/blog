@@ -2,6 +2,8 @@
 title: Linux tar 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnKZw
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/81'
 ---
 
 # Linux tar 命令
