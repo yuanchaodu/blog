@@ -2,6 +2,8 @@
 title: Linux unzip命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnKsI
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/87'
 ---
 
 # Linux unzip命令
