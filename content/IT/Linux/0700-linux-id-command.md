@@ -2,6 +2,8 @@
 title: Linux id 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnKAm
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/70'
 ---
 
 # Linux id 命令
