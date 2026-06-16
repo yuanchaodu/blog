@@ -2,6 +2,8 @@
 title: Linux groupdel 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnJ_D
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/69'
 ---
 
 # Linux groupdel 命令
