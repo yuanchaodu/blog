@@ -2,6 +2,8 @@
 title: Linux sudo 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnKQr
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/75'
 ---
 
 # Linux sudo 命令
