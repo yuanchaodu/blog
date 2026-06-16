@@ -2,6 +2,8 @@
 title: Linux 特殊权限位 SUID SGID Sticky
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnKVq
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/78'
 ---
 
 # Linux 特殊权限位 SUID SGID Sticky
