@@ -2,6 +2,8 @@
 title: Linux bzip2 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnKkz
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/84'
 ---
 
 # Linux bzip2 命令
