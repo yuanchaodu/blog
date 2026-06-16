@@ -2,6 +2,8 @@
 title: Linux 文件属性管理
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnKXG
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/79'
 ---
 
 # Linux 文件属性管理
