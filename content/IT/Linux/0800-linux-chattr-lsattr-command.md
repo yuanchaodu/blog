@@ -2,6 +2,8 @@
 title: Linux chattr 与 lsattr 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnKYF
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/80'
 ---
 
 # Linux chattr 与 lsattr 命令
