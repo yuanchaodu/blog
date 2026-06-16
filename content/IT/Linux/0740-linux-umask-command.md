@@ -2,6 +2,8 @@
 title: Linux umask 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnKP_
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/74'
 ---
 
 # Linux umask 命令
