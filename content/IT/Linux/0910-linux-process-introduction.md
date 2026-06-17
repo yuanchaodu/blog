@@ -2,6 +2,8 @@
 title: Linux 进程基础
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnLhS
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/91'
 ---
 
 # Linux 进程基础
