@@ -2,6 +2,8 @@
 title: Linux systemd 进程管理
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnSw9
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/108'
 ---
 
 # Linux systemd 进程管理
