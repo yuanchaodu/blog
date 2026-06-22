@@ -2,6 +2,8 @@
 title: Linux fg 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnSoL
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/105'
 ---
 
 #  Linux fg 命令
