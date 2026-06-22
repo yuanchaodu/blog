@@ -2,6 +2,8 @@
 title: Linux nice 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnSPw
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/100'
 ---
 
 #  Linux nice 命令

@@ -2,6 +2,8 @@
 title: Linux pkill 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnSPv
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/99'
 ---
 
 #  Linux pkill 命令
