@@ -2,6 +2,8 @@
 title: Linux bg 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnSnj
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/104'
 ---
 
 #  Linux bg 命令
