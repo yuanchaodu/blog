@@ -2,6 +2,8 @@
 title: Linux screen 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnSuw
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/106'
 ---
 
 #  Linux screen 命令
