@@ -2,6 +2,8 @@
 title: Linux yum 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnUTj
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/114'
 ---
 
 # Linux yum 命令
