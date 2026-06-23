@@ -2,6 +2,8 @@
 title: Linux yum 介绍
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnUN5
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/113'
 ---
 
 # Linux yum 介绍
