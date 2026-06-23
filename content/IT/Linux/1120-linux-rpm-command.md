@@ -2,6 +2,8 @@
 title: Linux RPM 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnUNJ
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/112'
 ---
 
 # Linux RPM 命令
