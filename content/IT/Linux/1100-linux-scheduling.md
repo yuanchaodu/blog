@@ -2,6 +2,8 @@
 title: Linux 调度机制
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnT9G
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/110'
 ---
 
 # Linux 调度机制
