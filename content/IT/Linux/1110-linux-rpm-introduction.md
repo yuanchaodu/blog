@@ -2,6 +2,8 @@
 title: Linux RPM 基础
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnUMM
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/111'
 ---
 
 # Linux RPM 基础
