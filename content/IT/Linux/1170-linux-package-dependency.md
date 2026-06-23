@@ -2,6 +2,8 @@
 title: Linux 包依赖管理
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnUWX
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/117'
 ---
 
 # Linux 包依赖管理
