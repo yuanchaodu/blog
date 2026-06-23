@@ -2,6 +2,8 @@
 title: Linux GCC 介绍
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnUZS
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/120'
 ---
 
 # Linux GCC 介绍
