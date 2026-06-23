@@ -2,6 +2,8 @@
 title: Linux 进程优先级
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnTog
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/109'
 ---
 
 # Linux 进程优先级
