@@ -2,6 +2,8 @@
 title: Linux 源码安装软件
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnUX8
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/118'
 ---
 
 # Linux 源码安装软件
