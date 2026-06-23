@@ -2,6 +2,8 @@
 title: Linux 软件仓库管理
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnUVk
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/116'
 ---
 
 # Linux 软件仓库管理
