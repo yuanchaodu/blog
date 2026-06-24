@@ -1,10 +1,10 @@
 ---
-title: Linux 磁盘基础
+title: Linux 磁盘介绍
 section: IT
 category: Linux
 ---
 
-# Linux 磁盘基础
+# Linux 磁盘介
 
 <img src="images/Linux.svg" width="300">
 
