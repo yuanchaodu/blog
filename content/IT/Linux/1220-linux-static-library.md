@@ -2,6 +2,8 @@
 title: Linux 静态库
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnVCi
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/122'
 ---
 
 # Linux 静态库
