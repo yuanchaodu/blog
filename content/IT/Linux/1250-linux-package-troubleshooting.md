@@ -2,6 +2,8 @@
 title: Linux 软件包故障排查
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnVvM
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/125'
 ---
 
 # Linux 软件包故障排查
