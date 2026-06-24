@@ -113,7 +113,13 @@ function convertImages(content, file) {
 }
 
 async function main() {
-  const files = walk(contentDir);
+  const files = process.env.CHANGED_FILES
+    ? process.env.CHANGED_FILES
+      .split(/\s+/)
+      .filter(Boolean)
+      .map((file) => path.join(process.cwd(), file))
+      .filter((file) => fs.existsSync(file) && file.endsWith(".md"))
+    : walk(contentDir);
 
   if (!files.length) {
     console.log("No markdown files found.");
