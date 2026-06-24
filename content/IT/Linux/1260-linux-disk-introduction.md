@@ -2,6 +2,8 @@
 title: Linux 磁盘介绍
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnVzY
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/126'
 ---
 
 # Linux 磁盘介
