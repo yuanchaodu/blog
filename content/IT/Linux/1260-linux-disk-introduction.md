@@ -6,7 +6,7 @@ discussion_id: D_kwDOS1Ul_s4AnVzY
 discussion_url: 'https://github.com/yuanchaodu/blog/discussions/126'
 ---
 
-# Linux 磁盘介
+# Linux 磁盘介绍
 
 <img src="images/Linux.svg" width="300">
 
