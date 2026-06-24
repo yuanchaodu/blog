@@ -2,6 +2,8 @@
 title: Linux 动态库
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnVCF
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/121'
 ---
 
 # Linux 动态库
