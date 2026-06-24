@@ -2,6 +2,8 @@
 title: Linux ldd 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnVDA
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/123'
 ---
 
 # Linux ldd 命令
