@@ -2,6 +2,8 @@
 title: Linux Swap 管理
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnYyd
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/135'
 ---
 
 # Linux Swap 管理
