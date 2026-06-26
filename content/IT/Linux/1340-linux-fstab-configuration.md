@@ -2,6 +2,8 @@
 title: Linux fstab 配置
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnYw4
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/134'
 ---
 
 # Linux fstab 配置
