@@ -2,6 +2,8 @@
 title: Linux parted 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnYss
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/130'
 ---
 
 # Linux parted 命令
