@@ -2,6 +2,8 @@
 title: Linux xfs 文件系统
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnZlS
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/137'
 ---
 
 # Linux xfs 文件系统
