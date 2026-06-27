@@ -2,6 +2,8 @@
 title: Linux ext4 文件系统
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnZk7
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/136'
 ---
 
 # Linux ext4 文件系统
