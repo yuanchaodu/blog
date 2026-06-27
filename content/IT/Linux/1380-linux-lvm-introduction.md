@@ -2,6 +2,8 @@
 title: Linux lvm 基础
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnZlq
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/138'
 ---
 
 # Linux lvm 基础
