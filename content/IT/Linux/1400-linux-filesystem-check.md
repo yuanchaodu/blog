@@ -2,6 +2,8 @@
 title: Linux 文件系统修复
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4Ana3e
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/140'
 ---
 
 # Linux 文件系统修复
