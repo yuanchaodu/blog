@@ -2,6 +2,8 @@
 title: Linux 磁盘配额
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4Ana4g
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/141'
 ---
 
 # Linux 磁盘配额
