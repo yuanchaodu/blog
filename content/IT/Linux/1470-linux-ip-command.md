@@ -2,6 +2,8 @@
 title: Linux ip 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4Anndd
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/147'
 ---
 
 # Linux ip 命令
