@@ -2,6 +2,8 @@
 title: Linux 网络基础
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4Annb8
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/146'
 ---
 
 # Linux 网络基础
