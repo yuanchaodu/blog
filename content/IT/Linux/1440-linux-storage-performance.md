@@ -2,6 +2,8 @@
 title: Linux 存储性能分析
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnnYl
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/144'
 ---
 
 # Linux 存储性能分析
