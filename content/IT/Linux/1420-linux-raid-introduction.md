@@ -2,6 +2,8 @@
 title: Linux raid 基础
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnnXd
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/142'
 ---
 
 # Linux raid 基础
