@@ -2,6 +2,8 @@
 title: Linux tcpdump 抓包
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4Anuk0
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/160'
 ---
 
 # Linux tcpdump 抓包
