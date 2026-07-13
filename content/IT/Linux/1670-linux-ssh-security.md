@@ -1,6 +1,9 @@
 ---
 title: Linux SSH 安全加固
 section: IT
+category: Linux
+discussion_id: D_kwDOS1Ul_s4Anv-5
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/167'
 ---
 
 # Linux SSH 安全加固
