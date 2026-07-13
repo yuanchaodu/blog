@@ -2,6 +2,8 @@
 title: Linux SSH 基础
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4Anv2h
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/165'
 ---
 
 # Linux SSH 基础
