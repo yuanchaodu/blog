@@ -2,6 +2,8 @@
 title: Linux nftables 基础
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnwAX
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/169'
 ---
 
 # Linux nftables 基础
