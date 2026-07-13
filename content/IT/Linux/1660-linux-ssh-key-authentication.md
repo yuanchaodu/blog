@@ -2,6 +2,8 @@
 title: Linux SSH 密钥认证
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4Anv38
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/166'
 ---
 
 # Linux SSH 密钥认证
