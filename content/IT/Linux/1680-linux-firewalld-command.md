@@ -1,6 +1,9 @@
 ---
 title: Linux Firewalld 防火墙
 section: IT
+category: Linux
+discussion_id: D_kwDOS1Ul_s4Anv_k
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/168'
 ---
 
 # Linux Firewalld 防火墙
