@@ -2,6 +2,8 @@
 title: Linux 网络故障排查
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AnwBB
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/170'
 ---
 
 # Linux 网络故障排查
