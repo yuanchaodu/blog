@@ -2,6 +2,8 @@
 title: Linux Shell 变量
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoDSo
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/172'
 ---
 
 # Linux Shell 变量
