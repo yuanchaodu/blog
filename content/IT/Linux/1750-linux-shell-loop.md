@@ -2,6 +2,8 @@
 title: Linux 循环结构
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoEdI
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/175'
 ---
 
 # Linux 循环结构
