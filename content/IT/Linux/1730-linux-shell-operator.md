@@ -2,6 +2,8 @@
 title: Linux Shell 运算符
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoEX3
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/173'
 ---
 
 # Linux Shell 运算符
