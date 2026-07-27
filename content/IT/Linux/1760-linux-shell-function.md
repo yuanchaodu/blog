@@ -2,6 +2,8 @@
 title: Linux Shell 函数
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoEjb
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/176'
 ---
 
 # Linux Shell 函数
