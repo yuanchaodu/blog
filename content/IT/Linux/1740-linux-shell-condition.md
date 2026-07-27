@@ -2,6 +2,8 @@
 title: Linux 条件判断
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoEbF
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/174'
 ---
 
 # Linux 条件判断
