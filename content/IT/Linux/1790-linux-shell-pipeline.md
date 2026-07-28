@@ -2,6 +2,8 @@
 title: Linux shell 管道
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoGQu
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/179'
 ---
 
 # Linux shell 管道
