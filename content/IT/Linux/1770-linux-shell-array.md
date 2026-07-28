@@ -2,6 +2,8 @@
 title: Linux Shell 数组
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoGDW
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/177'
 ---
 
 # Linux Shell 数组
