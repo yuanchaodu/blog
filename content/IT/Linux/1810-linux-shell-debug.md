@@ -2,6 +2,8 @@
 title: Linux shell 调试
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoGeT
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/181'
 ---
 
 # Linux shell 调试
