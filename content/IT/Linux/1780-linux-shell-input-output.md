@@ -2,6 +2,8 @@
 title: Linux 输入输出重定向
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoGHZ
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/178'
 ---
 
 # Linux 输入输出重定向
