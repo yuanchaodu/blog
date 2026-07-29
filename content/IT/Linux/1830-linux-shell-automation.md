@@ -2,6 +2,8 @@
 title: Linux shell 自动化脚本
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoHLN
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/183'
 ---
 
 # Linux shell 自动化脚本
