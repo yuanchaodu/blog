@@ -2,6 +2,8 @@
 title: Linux shell 异常处理
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoHK7
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/182'
 ---
 
 # Linux shell 异常处理
