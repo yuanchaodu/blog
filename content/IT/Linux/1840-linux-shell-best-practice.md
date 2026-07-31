@@ -2,6 +2,8 @@
 title: Linux Shell 最佳实践
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoKgZ
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/184'
 ---
 
 <img src="images/Linux.svg" width="300">
