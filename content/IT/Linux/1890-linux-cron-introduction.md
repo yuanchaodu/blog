@@ -2,6 +2,8 @@
 title: Linux Cron 任务调度
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoKrQ
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/189'
 ---
 
 <img src="images/Linux.svg" width="300">

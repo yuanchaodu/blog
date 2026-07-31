@@ -2,6 +2,8 @@
 title: Linux crontab 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoKrR
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/190'
 ---
 
 <img src="images/Linux.svg" width="300">
