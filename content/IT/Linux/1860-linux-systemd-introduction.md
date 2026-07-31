@@ -2,6 +2,8 @@
 title: Linux Systemd 基础
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoKj4
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/186'
 ---
 
 <img src="images/Linux.svg" width="300">
