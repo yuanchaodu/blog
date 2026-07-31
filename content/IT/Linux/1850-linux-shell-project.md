@@ -2,6 +2,8 @@
 title: Linux Shell 项目实战
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoKih
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/185'
 ---
 
 <img src="images/Linux.svg" width="300">
