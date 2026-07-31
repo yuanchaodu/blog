@@ -2,6 +2,8 @@
 title: Linux 日志管理
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoKvs
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/193'
 ---
 
 <img src="images/Linux.svg" width="300">
