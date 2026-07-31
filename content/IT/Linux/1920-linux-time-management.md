@@ -2,6 +2,8 @@
 title: Linux 时间管理
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoKu0
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/192'
 ---
 
 <img src="images/Linux.svg" width="300">
