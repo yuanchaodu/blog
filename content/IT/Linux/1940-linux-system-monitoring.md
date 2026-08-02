@@ -2,6 +2,8 @@
 title: Linux 系统监控
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoM77
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/194'
 ---
 
 <img src="images/Linux.svg" width="300">
