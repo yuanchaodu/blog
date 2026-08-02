@@ -2,6 +2,8 @@
 title: Linux 故障排查实战
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoM_1
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/200'
 ---
 
 <img src="images/Linux.svg" width="300">
