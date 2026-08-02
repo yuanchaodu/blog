@@ -2,6 +2,8 @@
 title: Linux 性能优化
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoM_Q
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/198'
 ---
 
 <img src="images/Linux.svg" width="300">
