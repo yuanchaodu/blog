@@ -2,6 +2,8 @@
 title: Linux iostat 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoM-t
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/196'
 ---
 
 <img src="images/Linux.svg" width="300">
