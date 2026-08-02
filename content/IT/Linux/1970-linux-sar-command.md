@@ -2,6 +2,8 @@
 title: Linux sar 命令
 section: IT
 category: Linux
+discussion_id: D_kwDOS1Ul_s4AoM-8
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/197'
 ---
 
 <img src="images/Linux.svg" width="300">
