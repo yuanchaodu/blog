@@ -2,6 +2,8 @@
 title: Oracle 发展历史与版本演进
 section: IT
 category: Oracle
+discussion_id: D_kwDOS1Ul_s4AoOdo
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/202'
 ---
 
 # Oracle 数据库发展历史与版本演进
