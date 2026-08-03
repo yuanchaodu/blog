@@ -10,9 +10,11 @@
 
 ### 🐧 Linux
 
-记录 Linux 系统管理、Shell 脚本、服务部署及运维经验。
+- 🔗 https://github.com/yuanchaodu/blog/discussions/categories/linux
 
-🔗 https://github.com/yuanchaodu/blog/discussions/categories/linux
+### 🛢️ Oracle
+
+- 🔗 https://github.com/yuanchaodu/blog/discussions/categories/oracle
 
 ### 🐳 Docker
 
