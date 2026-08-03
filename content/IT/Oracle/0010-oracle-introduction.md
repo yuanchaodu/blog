@@ -2,6 +2,8 @@
 title: 什么是 Oracle Database
 section: IT
 category: Oracle
+discussion_id: D_kwDOS1Ul_s4AoOcy
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/201'
 ---
 
 # 什么是 Oracle Database
