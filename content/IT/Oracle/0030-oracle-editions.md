@@ -2,6 +2,8 @@
 title: Oracle 各版本（EE、SE2、XE）区别
 section: IT
 category: Oracle
+discussion_id: D_kwDOS1Ul_s4AohEt
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/203'
 ---
 
 # Oracle 各版本（EE、SE2、XE）区别
