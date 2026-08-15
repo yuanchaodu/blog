@@ -2,6 +2,8 @@
 title: Oracle 整体架构概览
 section: IT
 category: Oracle
+discussion_id: D_kwDOS1Ul_s4AohGK
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/204'
 ---
 
 # Oracle 整体架构概览
