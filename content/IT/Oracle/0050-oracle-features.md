@@ -2,6 +2,8 @@
 title: Oracle 核心特性
 section: IT
 category: Oracle
+discussion_id: D_kwDOS1Ul_s4Aoicr
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/205'
 ---
 
 # Oracle 核心特性
