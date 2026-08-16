@@ -2,16 +2,22 @@
 title: Oracle 核心特性
 section: IT
 category: Oracle
+<<<<<<< HEAD
 discussion_id: D_kwDOS1Ul_s4Aoicr
 discussion_url: 'https://github.com/yuanchaodu/blog/discussions/205'
+=======
+>>>>>>> 316994b (docs: add Oracle features)
 ---
 
 # Oracle 核心特性
 
 <img src="images/Oracle.svg" width="300">
 
+<<<<<<< HEAD
 如果你指的是 **Oracle Database 的核心特性**，可以从下面几个方面理解：
 
+=======
+>>>>>>> 316994b (docs: add Oracle features)
 1. **企业级关系型数据库**
 
    * 基于关系模型，使用 SQL。
@@ -63,6 +69,7 @@ discussion_url: 'https://github.com/yuanchaodu/blog/discussions/205'
 
    * 基于成本的优化器 **CBO（Cost-Based Optimizer）**。
    * 根据统计信息选择执行计划。
+<<<<<<< HEAD
    * 提供 Explain Plan、AWR、ASH 等诊断与性能分析机制。
 
 如果是为了**面试/考试**，最值得重点掌握的一条主线是：
@@ -70,3 +77,6 @@ discussion_url: 'https://github.com/yuanchaodu/blog/discussions/205'
 **Oracle 架构 → Instance/Database → SGA/PGA → Process → Tablespace/Datafile → Redo/Undo → Transaction → Lock/MVCC → Index → SQL 执行计划 → RAC/Data Guard。**
 
 这条线基本覆盖 Oracle 的核心知识体系。
+=======
+   * 提供 Explain Plan、AWR、ASH 等诊断与性能分析机制。
+>>>>>>> 316994b (docs: add Oracle features)
