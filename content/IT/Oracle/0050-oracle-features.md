@@ -2,22 +2,16 @@
 title: Oracle 核心特性
 section: IT
 category: Oracle
-<<<<<<< HEAD
 discussion_id: D_kwDOS1Ul_s4Aoicr
 discussion_url: 'https://github.com/yuanchaodu/blog/discussions/205'
-=======
->>>>>>> 316994b (docs: add Oracle features)
 ---
 
 # Oracle 核心特性
 
 <img src="images/Oracle.svg" width="300">
 
-<<<<<<< HEAD
 如果你指的是 **Oracle Database 的核心特性**，可以从下面几个方面理解：
 
-=======
->>>>>>> 316994b (docs: add Oracle features)
 1. **企业级关系型数据库**
 
    * 基于关系模型，使用 SQL。
