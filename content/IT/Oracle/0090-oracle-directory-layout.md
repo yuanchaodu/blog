@@ -2,6 +2,8 @@
 title: Oracle 安装目录结构
 section: IT
 category: Oracle
+discussion_id: D_kwDOS1Ul_s4Ao3_w
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/209'
 ---
 
 # Oracle 安装目录结构
