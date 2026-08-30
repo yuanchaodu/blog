@@ -2,6 +2,8 @@
 title: Oracle 安装流程
 section: IT
 category: Oracle
+discussion_id: D_kwDOS1Ul_s4Ao3_G
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/208'
 ---
 
 # Oracle 安装流程

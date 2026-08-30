@@ -2,6 +2,8 @@
 title: Oracle 授权模式简介
 section: IT
 category: Oracle
+discussion_id: D_kwDOS1Ul_s4Ao3_F
+discussion_url: 'https://github.com/yuanchaodu/blog/discussions/207'
 ---
 
 # Oracle 授权模式简介
